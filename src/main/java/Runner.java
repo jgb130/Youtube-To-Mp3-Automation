@@ -6,7 +6,7 @@ public class Runner
        {
         System.out.println("Hello, Runner!\n\n");
 
-        String apiKey = "AIzaSyCMff0JjmH7U11y9poDjX6jziX_QvDXIg8";
+        String apiKey = <API KEY>;
 
         boolean useBillboard = true;
         String searchPhrase = "Cinema - Skrillex";
